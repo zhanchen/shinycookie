@@ -13,10 +13,16 @@ The `shinycookie` package uses the [`js-cookie`](https://github.com/js-cookie/js
 
 ## Getting Started
 
-Install the development version:
+Install the original development version:
 
 ```r
 devtools::install_github("colearendt/shinycookie")
+```
+
+Install the updated version with latest js.cookies:
+
+```r
+devtools::install_github("zhanchen/shinycookie")
 ```
 
 ## Examples
